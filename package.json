@@ -4,7 +4,8 @@
   "description": "Ezequiel Hurt challenge for Zurich",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ezehurt/eh-zurich-challenge/issues"
   },
-  "homepage": "https://github.com/ezehurt/eh-zurich-challenge#readme"
+  "homepage": "https://github.com/ezehurt/eh-zurich-challenge#readme",
+  "dependencies": {
+    "jest": "^29.2.2",
+    "lodash": "^4.17.21"
+  }
 }
