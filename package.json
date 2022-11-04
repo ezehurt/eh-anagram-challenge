@@ -1,0 +1,19 @@
+{
+  "name": "eh-zurich-challenge",
+  "version": "1.0.0",
+  "description": "Ezequiel Hurt challenge for Zurich",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezehurt/eh-zurich-challenge.git"
+  },
+  "author": "Ezequiel Julian Hurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezehurt/eh-zurich-challenge/issues"
+  },
+  "homepage": "https://github.com/ezehurt/eh-zurich-challenge#readme"
+}
