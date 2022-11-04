@@ -1,5 +1,11 @@
 const fs = require('fs/promises');
 
+
+/**
+ * Given a filename returns the array of words inside the file. The words must be one per line.
+ * @param {string} filename 
+ * @return {Array} array
+ */
 const getTextFileData = (path) => {
     return new Promise(async(resolve,reject)=> {
         try {
