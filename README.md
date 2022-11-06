@@ -109,5 +109,7 @@ That should not modify the word but the calculation will be the same.
 
 ### Source (some documentations that I read to tackle the challenge)
 
-
+https://math.stackexchange.com/questions/1386915/an-efficient-way-to-find-anagrams
+https://hackernoon.com/an-algorithm-for-finding-anagrams-2fe7655de85b
+https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/
 
