@@ -18,5 +18,18 @@ const getTextFileData = (path) => {
     });
 }
 
-module.exports = { getTextFileData }
+/**
+ * Given the first and last word, return true if last word is longer than first
+ * @param {string} firstWord 
+ * @param {string} lastWord 
+ * @return {Boolean} 
+ */
+const areWordsOrderedByLength = (firstWord, lastWord) =>{
+  return (firstWord.length > 0 && lastWord.length > 0) && lastWord.length >= firstWord.length
+}
+
+module.exports = { 
+  getTextFileData,
+  areWordsOrderedByLength
+}
    
