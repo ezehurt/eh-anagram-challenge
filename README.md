@@ -1,5 +1,5 @@
 # eh-anagram-challenge
-node.js application for zurich developer test
+node.js application for anagram developer test
 
 ## Development server
 In the project directory: 
