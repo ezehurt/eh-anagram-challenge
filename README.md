@@ -1,4 +1,4 @@
-# eh-zurich-challenge
+# eh-anagram-challenge
 node.js application for zurich developer test
 
 ## Development server
